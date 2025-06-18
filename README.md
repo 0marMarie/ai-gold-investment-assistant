@@ -1,3 +1,7 @@
+# Interface
+
+![alt text](<Screenshot 2025-06-18 at 12.55.17 PM.png>)
+
 # 🏆 AI Investment Estimations - Gold Assistant
 
 A comprehensive AI assistant for gold investment analysis featuring multiple specialized agents, real-time price data, and multi-language support.
